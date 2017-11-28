@@ -1,5 +1,3 @@
-Deployed at https://salty-harbor-74945.herokuapp.com/
-
 Link to server:
 https://salty-harbor-74945.herokuapp.com/
 
