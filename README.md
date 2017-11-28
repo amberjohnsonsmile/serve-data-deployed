@@ -1,3 +1,5 @@
+Server for exercise at https://github.com/amberjohnsonsmile/serve-data-to-clients/tree/master/drills/version-1
+
 Link to server:
 https://salty-harbor-74945.herokuapp.com/
 
